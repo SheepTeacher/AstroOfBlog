@@ -5,6 +5,7 @@ pinned: false
 description: 这是一篇接收我国的气象卫星风云二号G星（FengYun-2G）
 tags: [风云, 气象卫星,业余无线电]
 category: Examples
+image: "./2026-07-11_15-09/FY-2x_FC_20260711T150930Z.png"
 author: BG7NTZ
 draft: false
 ---
