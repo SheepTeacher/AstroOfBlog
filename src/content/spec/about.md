@@ -16,13 +16,14 @@ This website is built with the **Astro** framework using the [Mizuki](https://gi
 
 ## 💡语言
 
-🐍 Python<br/>🐤 Node.js
+-🐍 Python<br/>
+-🐤 Node.js
 
 ---
 
 ## 🖊 自我介绍
 
-我是一个来自广东的一个初中学生，热爱无线电和**星露谷**!
+我是一个来自广东的一个初中学生，热爱**无线电**和**星露谷**!
 
 爱玩[Minecraft](https://www.minecraft.net/zh-hans) and [星露谷物语](https://store.steampowered.com/app/413150)
 
