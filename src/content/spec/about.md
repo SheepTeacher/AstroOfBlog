@@ -8,7 +8,7 @@ This website is built with the **Astro** framework using the [Mizuki](https://gi
 
 ---
 
-> Tell me… Does **SheepTeachers the God** bleed?
+> Tell me… Does **SheepTeachers the God** bleed?<br/>
 > IDK. But you will.
 
 ---
