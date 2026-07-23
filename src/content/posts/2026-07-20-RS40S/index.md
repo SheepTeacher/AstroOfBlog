@@ -59,4 +59,5 @@ draft: false
 Ascii文本可以将下传的音频进行录音，音频可以放置在[soundmodem](soundmodem)进行解码<br/>
 ![Image description](./soundmodem.png)
 
+高仰角过境成功率更高哦（不对我在说什么废话）<br/>
 **祝大家接收顺利!!!**
