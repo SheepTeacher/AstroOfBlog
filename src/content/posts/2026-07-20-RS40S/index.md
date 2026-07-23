@@ -49,4 +49,13 @@ draft: false
 下传SSTV模式：Robot36<br/>
 传输形式：SSTV 图像与音频消息交替播发<br/>
 
+---
+## 如何解码卫星下传的数据？
+
+解码SSTV手机端可以使用[Robot36](https://github.com/xdsopl/robot36/releases)进行解码
+![Image description](./robot36.jpg)
+电脑以Windows举例，可以使用[RX-SSTV](https://www.qsl.net/on6mu/rxsstv.htm)进行解码<br/>
+![Image description](./RX-SSTV.png)
+Ascii文本可以将下传的音频进行录音，音频可以放置在[soundmodem](soundmodem)进行解码<br/>
+![Image description](./soundmodem.png)
 **祝大家接收顺利**
