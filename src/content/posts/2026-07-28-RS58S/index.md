@@ -5,7 +5,7 @@ pinned: false
 description: MONITOR-3（RS58S）SSTV 活动｜俄罗斯科学院空间学校特别广播
 tags: [SSTV, 业余无线电]
 category: Examples
-image: "./RS58S.jpg"
+image: "./RS58S1.jpg"
 author: BG7NTZ
 draft: false
 ---
