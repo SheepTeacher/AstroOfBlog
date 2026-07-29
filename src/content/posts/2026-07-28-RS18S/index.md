@@ -1,6 +1,6 @@
 ---
 title: SAKHACUBE-CHOLBON（RS18S）SSTV 活动
-published: 2026-07-28
+published: 2026-07-29
 pinned: false
 description: SAKHACUBE-CHOLBON（RS18S）SSTV 活动｜“2026 儿童节”主题图像从太空播出
 tags: [SSTV, 业余无线电]
